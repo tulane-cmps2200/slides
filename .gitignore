@@ -4,3 +4,4 @@
 *.snm
 *.synctex.gz
 *.toc
+.ipynb_checkpoints
