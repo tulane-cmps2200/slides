@@ -10,6 +10,6 @@ All slides are listed below. There are three ways to view:
 
 |topic|nbviewer|binder|
 |-----|--------|------|
-|Introduction|[static](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/01-intro/01-intro.ipynb)|[live](https://notebooks.gesis.org/binder/jupyter/user/tulane-cmps2200-slides-z1y4epq4/notebooks/01-intro/01-intro.ipynb)|
+|Introduction|[static](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/01-intro/01-intro.ipynb)|[live](https://mybinder.org/v2/gh/tulane-cmps2200/slides/master?filepath=01-intro/01-intro.ipynb)|
 
 Slides made using the [RISE](https://rise.readthedocs.io/en/stable/index.html) extension for [Jupyter](https://jupyter.org/) notebooks.
