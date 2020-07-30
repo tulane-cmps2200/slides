@@ -10,7 +10,7 @@ All slides are listed below. There are three ways to view:
 
 |topic|nbviewer|binder|
 |-----|--------|------|
-|Introduction|[static](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/01-intro/01-intro.ipynb)|[live](https://mybinder.org/v2/gh/tulane-cmps2200/slides/master?filepath=01-intro/01-intro.ipynb)|
-|Parallelism|[static](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/02-parallel/02-parallel.ipynb)|[live](https://mybinder.org/v2/gh/tulane-cmps2200/slides/master?filepath=02-parallel/02-parallel.ipynb)|
+|Introduction|[static](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-01-cost/01-intro/01-intro.ipynb)|[live](https://mybinder.org/v2/gh/tulane-cmps2200/slides/master?filepath=module-01-cost/01-intro/01-intro.ipynb)|
+|Parallelism|[static](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-01-cost/02-parallel/02-parallel.ipynb)|[live](https://mybinder.org/v2/gh/tulane-cmps2200/slides/master?filepath=module-01-cost/02-parallel/02-parallel.ipynb)|
 
 Slides made using the [RISE](https://rise.readthedocs.io/en/stable/index.html) extension for [Jupyter](https://jupyter.org/) notebooks.
