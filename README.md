@@ -2,7 +2,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tulane-cmps2200/slides/master)
 
-All slides are listed below. Many are written using Jupyter notebooks, an interactive environment for coding and presenting. There are three ways to view:
+All lecture slides are listed below. These are organized by module, each of which may contain one more more lectures.  
+Many are lectures are prepared using Jupyter notebooks, an interactive environment for coding and presenting. There are three ways to view these:
 
 1. live: runs a Jupyter notebook in the cloud so you can interact with the notes directly, using [Binder](https://mybinder.org/v2/gh/tulane-cmps2200/slides/master)
 2. pdf: view a static PDF of the notes.
