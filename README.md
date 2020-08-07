@@ -4,7 +4,7 @@
 
 All slides are listed below. Many are written using Jupyter notebooks, an interactive environment for coding and presenting. There are three ways to view:
 
-1. cloud: runs a Jupyter notebook in the cloud so you can interact with the notes directly, using [Binder](https://mybinder.org/v2/gh/tulane-cmps2200/slides/master):
+1. live: runs a Jupyter notebook in the cloud so you can interact with the notes directly, using [Binder](https://mybinder.org/v2/gh/tulane-cmps2200/slides/master)
 2. pdf: view a static PDF of the notes.
 3. You can also clone this repo and launch the notebooks locally by running `jupyter notebook` (requires installing  [Jupyter](https://jupyter.org/) and [RISE](https://rise.readthedocs.io/en/stable/index.html)).
 
