@@ -12,11 +12,11 @@ Many are lectures are prepared using [Jupyter](https://jupyter.org/), an interac
 |topic|
 |-----|
 |[**Module 01: Formalizing the cost of an algorithm**](https://github.com/tulane-cmps2200/slides/tree/master/module-01-cost)|
-|                              &nbsp;&nbsp;Overview [live](https://mybinder.org/v2/gh/tulane-cmps2200/slides/master?filepath=module-01-cost/01-intro/01-intro.ipynb)/[ipynb](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-01-cost/01-intro/01-intro.ipynb?flush_cache=True)|
-|                           &nbsp;&nbsp;Parallelism [live](https://mybinder.org/v2/gh/tulane-cmps2200/slides/master?filepath=module-01-cost/02-parallel/02-parallel.ipynb)/[ipynb](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-01-cost/02-parallel/02-parallel.ipynb?flush_cache=True)|
-|                &nbsp;&nbsp;Functional programming [live](https://mybinder.org/v2/gh/tulane-cmps2200/slides/master?filepath=module-01-cost/03-functional/03-functional.ipynb)/[ipynb](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-01-cost/03-functional/03-functional.ipynb?flush_cache=True)|
-|                                 &nbsp;&nbsp;SPARC [live](https://mybinder.org/v2/gh/tulane-cmps2200/slides/master?filepath=module-01-cost/04-sparc/04-sparc.ipynb)/[ipynb](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-01-cost/04-sparc/04-sparc.ipynb?flush_cache=True)|
-|                           &nbsp;&nbsp;Cost models [live](https://mybinder.org/v2/gh/tulane-cmps2200/slides/master?filepath=module-01-cost/05-cost/05-cost.ipynb)/[ipynb](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-01-cost/05-cost/05-cost.ipynb?flush_cache=True)|
+|                              &nbsp;&nbsp;Overview [live](https://mybinder.org/v2/gh/tulane-cmps2200/slides/master?filepath=module-01-cost/01-intro/01-intro.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-01-cost/01-intro/01-intro.ipynb?flush_cache=True)|
+|                           &nbsp;&nbsp;Parallelism [live](https://mybinder.org/v2/gh/tulane-cmps2200/slides/master?filepath=module-01-cost/02-parallel/02-parallel.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-01-cost/02-parallel/02-parallel.ipynb?flush_cache=True)|
+|                &nbsp;&nbsp;Functional programming [live](https://mybinder.org/v2/gh/tulane-cmps2200/slides/master?filepath=module-01-cost/03-functional/03-functional.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-01-cost/03-functional/03-functional.ipynb?flush_cache=True)|
+|                                 &nbsp;&nbsp;SPARC [live](https://mybinder.org/v2/gh/tulane-cmps2200/slides/master?filepath=module-01-cost/04-sparc/04-sparc.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-01-cost/04-sparc/04-sparc.ipynb?flush_cache=True)|
+|                           &nbsp;&nbsp;Cost models [live](https://mybinder.org/v2/gh/tulane-cmps2200/slides/master?filepath=module-01-cost/05-cost/05-cost.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-01-cost/05-cost/05-cost.ipynb?flush_cache=True)|
 |[                        **Module 02: Recurrences**](https://github.com/tulane-cmps2200/slides/tree/master/module-02-recurrences)|
 |[                          **Module 03: Sequences**](https://github.com/tulane-cmps2200/slides/tree/master/module-03-sequences)|
 |[                 **Module 04: Divide and Conquer**](https://github.com/tulane-cmps2200/slides/tree/master/module-04-divide-and-conquer)|
@@ -26,4 +26,3 @@ Many are lectures are prepared using [Jupyter](https://jupyter.org/), an interac
 |[                             **Module 08: Graphs**](https://github.com/tulane-cmps2200/slides/tree/master/module-08-graph)|
 |[                     **Module 09: Spanning trees**](https://github.com/tulane-cmps2200/slides/tree/master/module-09-trees)|
 |[                      **Module 10: Computability**](https://github.com/tulane-cmps2200/slides/tree/master/module-10-computability)|
-
