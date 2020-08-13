@@ -18,6 +18,7 @@ Many are lectures are prepared using [Jupyter](https://jupyter.org/), an interac
 |                                 &nbsp;&nbsp;SPARC [live](https://mybinder.org/v2/gh/tulane-cmps2200/slides/master?filepath=module-01-cost/04-sparc/04-sparc.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-01-cost/04-sparc/04-sparc.ipynb?flush_cache=True)|
 |                           &nbsp;&nbsp;Cost models [live](https://mybinder.org/v2/gh/tulane-cmps2200/slides/master?filepath=module-01-cost/05-cost/05-cost.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-01-cost/05-cost/05-cost.ipynb?flush_cache=True)|
 |[                        **Module 02: Recurrences**](https://github.com/tulane-cmps2200/slides/tree/master/module-02-recurrences)|
+|                           &nbsp;&nbsp;Recurrences [live](https://mybinder.org/v2/gh/tulane-cmps2200/slides/master?filepath=module-02-recurrences/recurrences.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-02-recurrences/recurrences.ipynb?flush_cache=True)|
 |[                          **Module 03: Sequences**](https://github.com/tulane-cmps2200/slides/tree/master/module-03-sequences)|
 |[                 **Module 04: Divide and Conquer**](https://github.com/tulane-cmps2200/slides/tree/master/module-04-divide-and-conquer)|
 |[              **Module 05: Randomized Algorithms**](https://github.com/tulane-cmps2200/slides/tree/master/module-05-random)|
