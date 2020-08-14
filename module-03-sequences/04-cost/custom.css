@@ -1,0 +1,43 @@
+<style>
+div#notebook {
+ font-family: "Exo_2", sans-serif;
+}
+
+.rendered_html h1,
+.text_cell_render h1 {
+ color: #126dce;
+ font-size: 220%;
+ text-align: center;
+ font-weight: lighter;
+}
+.rendered_html h2,
+.text_cell_render h2 {
+ text-align: center;
+ font-size: 170%;
+ color: #126dce;
+ font-style: normal;
+ font-weight: lighter;
+}
+.rendered_html h3,
+.text_cell_render h3 {
+ font-size: 150%;
+ color: #126dce;
+ font-weight: lighter;
+ text-decoration: italic;
+ font-style: normal;
+}
+.rendered_html h4,
+.text_cell_render h4 {
+ font-size: 120%;
+ color: #126dce;
+ font-weight: underline;
+ font-style: normal;
+}
+.rendered_html h5,
+.text_cell_render h5 {
+ font-size: 100%;
+ color: #2f2f2f;
+ font-weight: lighter;
+ text-decoration: underline;
+}
+</style>
