@@ -1,1 +1,1 @@
-# Sequence Operators
+# Iterate and Reduce
