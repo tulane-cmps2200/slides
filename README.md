@@ -25,7 +25,11 @@ Many are lectures are prepared using [Jupyter](https://jupyter.org/), an interac
 |                                  &nbsp;&nbsp;Scan [live](https://mybinder.org/v2/gh/tulane-cmps2200/slides/master?filepath=module-03-sequences/03-scan/03-scan.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-03-sequences/03-scan/03-scan.ipynb?flush_cache=True)|
 |        &nbsp;&nbsp;Problem solving with sequences [live](https://mybinder.org/v2/gh/tulane-cmps2200/slides/master?filepath=module-03-sequences/04-problems/04-problems.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-03-sequences/04-problems/04-problems.ipynb?flush_cache=True)|
 |[                 **Module 04: Divide and Conquer**](https://github.com/tulane-cmps2200/slides/tree/master/module-04-divide-and-conquer)|
-|[              **Module 05: Randomized Algorithms**](https://github.com/tulane-cmps2200/slides/tree/master/module-05-random)|
+&nbsp;&nbsp;[Reduction and Brute Force](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-04-divide-and-conquer/dc-01.ipynb?flush_cache=True)|
+&nbsp;&nbsp;[Divide & Conquer Scan](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-04-divide-and-conquer/dc-02.ipynb?flush_cache=True)|
+&nbsp;&nbsp;[MCSS + TSP Divide & Conquer](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-04-divide-and-conquer/dc-03.ipynb?flush_cache=True)|
+&nbsp;&nbsp;[Midterm Review](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-04-divide-and-conquer/dc-04.ipynb?flush_cache=True)|
+[              **Module 05: Randomized Algorithms**](https://github.com/tulane-cmps2200/slides/tree/master/module-05-random)|
 |[                  **Module 06: Greedy Algorithms**](https://github.com/tulane-cmps2200/slides/tree/master/module-06-greedy)|
 |[                **Module 07: Dynamic Programming**](https://github.com/tulane-cmps2200/slides/tree/master/module-07-dynamic)|
 |[                             **Module 08: Graphs**](https://github.com/tulane-cmps2200/slides/tree/master/module-08-graph)|
