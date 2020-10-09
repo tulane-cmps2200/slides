@@ -30,6 +30,9 @@ Many are lectures are prepared using [Jupyter](https://jupyter.org/), an interac
 &nbsp;&nbsp;[MCSS + TSP Divide & Conquer](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-04-divide-and-conquer/dc-03.ipynb?flush_cache=True)|
 &nbsp;&nbsp;[Midterm Review](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-04-divide-and-conquer/dc-04.ipynb?flush_cache=True)|
 [              **Module 05: Randomized Algorithms**](https://github.com/tulane-cmps2200/slides/tree/master/module-05-random)|
+&nbsp;&nbsp;[Probability Review](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-05-random/random-01.ipynb?flush_cache=True)|
+&nbsp;&nbsp;[Selection](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-05-random/random-02.ipynb?flush_cache=True)|
+&nbsp;&nbsp;[Quicksort](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-05-random/random-03.ipynb?flush_cache=True)|
 |[                  **Module 06: Greedy Algorithms**](https://github.com/tulane-cmps2200/slides/tree/master/module-06-greedy)|
 |[                **Module 07: Dynamic Programming**](https://github.com/tulane-cmps2200/slides/tree/master/module-07-dynamic)|
 |[                             **Module 08: Graphs**](https://github.com/tulane-cmps2200/slides/tree/master/module-08-graph)|
