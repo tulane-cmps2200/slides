@@ -34,6 +34,9 @@ Many are lectures are prepared using [Jupyter](https://jupyter.org/), an interac
 &nbsp;&nbsp;[Selection](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-05-random/random-02.ipynb?flush_cache=True)|
 &nbsp;&nbsp;[Quicksort](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-05-random/random-03.ipynb?flush_cache=True)|
 |[                  **Module 06: Greedy Algorithms**](https://github.com/tulane-cmps2200/slides/tree/master/module-06-greedy)|
+&nbsp;&nbsp;[Task scheduling / Knapsack](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-06-greedy/greedy-01.ipynb?flush_cache=True)|
+&nbsp;&nbsp;[Heaps](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-06-greedy/greedy-02.ipynb?flush_cache=True)|
+&nbsp;&nbsp;[Huffman coding](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-06-greedy/greedy-03.ipynb?flush_cache=True)|
 |[                **Module 07: Dynamic Programming**](https://github.com/tulane-cmps2200/slides/tree/master/module-07-dynamic)|
 |[                             **Module 08: Graphs**](https://github.com/tulane-cmps2200/slides/tree/master/module-08-graph)|
 |[                     **Module 09: Spanning trees**](https://github.com/tulane-cmps2200/slides/tree/master/module-09-trees)|
