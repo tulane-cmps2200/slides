@@ -38,6 +38,15 @@ Many are lectures are prepared using [Jupyter](https://jupyter.org/), an interac
 &nbsp;&nbsp;[Heaps](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-06-greedy/greedy-02.ipynb?flush_cache=True)|
 &nbsp;&nbsp;[Huffman coding](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-06-greedy/greedy-03.ipynb?flush_cache=True)|
 |[                **Module 07: Dynamic Programming**](https://github.com/tulane-cmps2200/slides/tree/master/module-07-dynamic)|
+&nbsp;&nbsp;[0-1 Knapsack](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-07-dynamic/dp-01.ipynb?flush_cache=True)|
+&nbsp;&nbsp;[Edit Distance, Longest Increasing Subsequence](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-07-dynamic/dp-02.ipynb?flush_cache=True)|
+&nbsp;&nbsp;[Huffman Coding](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-07-dynamic/dp-03.ipynb?flush_cache=True)|
 |[                             **Module 08: Graphs**](https://github.com/tulane-cmps2200/slides/tree/master/module-08-graph)|
+&nbsp;&nbsp;[Graph Overview](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-08-graph/graph-01.ipynb?flush_cache=True)|
+&nbsp;&nbsp;[BFS](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-08-graph/graph-02.ipynb?flush_cache=True)|
+&nbsp;&nbsp;[DFS](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-08-graph/graph-03.ipynb?flush_cache=True)|
+&nbsp;&nbsp;[Dijkstra](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-08-graph/graph-04.ipynb?flush_cache=True)|
+&nbsp;&nbsp;[Bellman-Ford](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-08-graph/graph-05.ipynb?flush_cache=True)|
+&nbsp;&nbsp;[Johnson](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-08-graph/graph-06.ipynb?flush_cache=True)|
 |[                     **Module 09: Spanning trees**](https://github.com/tulane-cmps2200/slides/tree/master/module-09-trees)|
 |[                      **Module 10: Computability**](https://github.com/tulane-cmps2200/slides/tree/master/module-10-computability)|
