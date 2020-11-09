@@ -49,4 +49,9 @@ Many are lectures are prepared using [Jupyter](https://jupyter.org/), an interac
 &nbsp;&nbsp;[Bellman-Ford](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-08-graph/graph-05.ipynb?flush_cache=True)|
 &nbsp;&nbsp;[Johnson](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-08-graph/graph-06.ipynb?flush_cache=True)|
 |[                     **Module 09: Spanning trees**](https://github.com/tulane-cmps2200/slides/tree/master/module-09-trees)|
+&nbsp;&nbsp;[MST Overview - Prim](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-09-trees/tree-01.ipynb?flush_cache=True)|
+&nbsp;&nbsp;[Kruskal+TSP](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-09-trees/tree-02.ipynb?flush_cache=True)|
+&nbsp;&nbsp;[Edge Contraction](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-09-trees/tree-03.ipynb?flush_cache=True)|
+&nbsp;&nbsp;[Star Contraction](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-09-trees/tree-04.ipynb?flush_cache=True)|
+&nbsp;&nbsp;[Boruvka](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-09-trees/tree-05.ipynb?flush_cache=True)|
 |[                      **Module 10: Computability**](https://github.com/tulane-cmps2200/slides/tree/master/module-10-computability)|
