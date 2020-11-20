@@ -55,3 +55,4 @@ Many are lectures are prepared using [Jupyter](https://jupyter.org/), an interac
 &nbsp;&nbsp;[Star Contraction](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-09-trees/tree-04.ipynb?flush_cache=True)|
 &nbsp;&nbsp;[Boruvka](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-09-trees/tree-05.ipynb?flush_cache=True)|
 |[                      **Module 10: Computability**](https://github.com/tulane-cmps2200/slides/tree/master/module-10-computability)|
+&nbsp;&nbsp;[Computational Complexity](https://nbviewer.jupyter.org/github/tulane-cmps2200/slides/blob/master/module-10-computability/computability.ipynb?flush_cache=True)|
